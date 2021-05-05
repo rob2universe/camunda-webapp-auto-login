@@ -30,7 +30,7 @@ import static org.camunda.bpm.engine.authorization.Resources.APPLICATION;
  * Example: http://localhost:8080/camunda/app/tasklist/default/?auto-login-username=demo
  * Authenticates a request against the provided process engine's identity service
  * getting the user id from the url parameter auto-login-username. This is an example
- * for the baseline setup meant to be extend with a custom security mechanism.
+ * for the baseline setup meant to be extended with a custom security mechanism.
  * THIS IS A SECURITY ISSUE. DO NOT USE AS IS IN PRODUCTION.
  * </p>
  */
